@@ -1,0 +1,15 @@
+Here I write the points, which I would like to learn for finding the job in area of quality assurance:
+
+1-qa-theory and basic topics
+2-api-testing (all modern and actual kinds of APIs (SOAP,REST, GraphQL,  
+), )
+3-java-core-basics(OOP, FP, classes, methods, abstract classes, interfaces)
+4-python-basics 
+5-selenium with java
+6-selenium with python 
+7-xpath
+8-dom-html-css
+9 - junit, testNG, pytest
+10- CI/CD Jenkins, GitLab
+11- docker
+12-Kubernetes
